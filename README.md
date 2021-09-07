@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hoangnam-nguyen/stats-preview-card-component-main](https://github.com/hoangnam-nguyen/stats-preview-card-component-main)
+- Live Site URL: [https://hoangnam-nguyen.github.io/stats-preview-card-component-main/](https://hoangnam-nguyen.github.io/stats-preview-card-component-main/)
 
 ## My process
 
